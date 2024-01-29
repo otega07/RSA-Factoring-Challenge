@@ -43,7 +43,7 @@ if __name__ == "__main__":
 
 
     '''loops over each line (which should contain one natural number per line),
-and calls factorize on each number.
+        and calls factorize on each number.
         If factorize returns a tuple of factors,
         it prints the factorization in the desired forma
     '''
